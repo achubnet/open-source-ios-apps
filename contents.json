@@ -36065,6 +36065,26 @@
       "license": "apache-2.0",
       "date_added": "Oct 29 2026",
       "suggested_by": "@royan-agent"
+    },
+    {
+      "title": "Tuber",
+      "category-ids": [
+        "video"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "cloudkit"
+      ],
+      "description": "Calm player for the YouTube channels you follow that skips in-video sponsor reads via SponsorBlock, with no ads, Shorts or recommendations",
+      "source": "https://github.com/achubnet/Tuber",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/achubnet/Tuber/main/Screenshots/showcase.png"
+      ],
+      "date_added": "Oct 29 2026",
+      "suggested_by": "@achubnet"
     }
   ]
 }
